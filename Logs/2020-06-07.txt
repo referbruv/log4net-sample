@@ -1,0 +1,30 @@
+2020-06-07 14:38:23,484 [1] INFO  App  
+ Log System Initialized 
+ 
+2020-06-07 14:38:23,582 [1] INFO  App  
+ Starting the Host 
+ 
+2020-06-07 14:43:15,886 [1] INFO  App  
+ Log System Initialized 
+ 
+2020-06-07 14:43:15,950 [1] INFO  App  
+ Starting the Host 
+ 
+2020-06-07 14:45:48,024 [1] INFO  App  
+ Log System Initialized 
+ 
+2020-06-07 14:45:48,048 [1] INFO  App  
+ Starting the Host 
+ 
+2020-06-07 14:45:58,554 [10] INFO  App  
+ On the ReaderStore constructor 
+ 
+2020-06-07 14:45:58,555 [10] INFO  App  
+ On the ReadersController constructor 
+ 
+2020-06-07 14:45:58,558 [10] INFO  App  
+ Received Request: /api/readers 
+ 
+2020-06-07 14:45:58,561 [10] INFO  App  
+ 10 records found. Returning to Response 
+ 
